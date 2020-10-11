@@ -4,4 +4,4 @@
 
 ## Phase 1:
 
-* Solve problems from the following URL: [InterviewBit/Amazon](https://interviewbit.com/search?q=amazon)
+* Solve problems from the following URL:<p><a href="https://interviewbit.com/search?q=amazon" target="_blank">InterviewBit/Amazon</a></p>
